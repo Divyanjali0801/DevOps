@@ -1,0 +1,19 @@
+spring:
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+      routes:
+        - id: book-service
+          uri: lb://BOOK-SERVICE
+          predicates:
+            - Path=/book-service/**
+        - id: order-management
+          uri: lb://ORDER-MANAGEMENT
+          predicates:
+            - Path=/order-management/**
+        - id: user-management 
+          uri: lb://USER-MANAGEMENT
+          predicates:
+           - Path=/user-management/**
