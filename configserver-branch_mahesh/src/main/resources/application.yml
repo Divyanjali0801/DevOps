@@ -1,0 +1,7 @@
+server:
+  port: 8888
+  servlet:
+    contextPath: /configserver
+spring:
+  profiles:
+    active: native

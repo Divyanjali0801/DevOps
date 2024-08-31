@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: configserver
+  cloud:
+    config:
+      server:
+        native:
+          search-locations: file:///C:/Users/Durgasi Mahesh kumar/Documents/config-info/{application}
+          order: 1
