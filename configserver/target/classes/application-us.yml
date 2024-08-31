@@ -5,5 +5,5 @@ spring:
     config:
       server:
         native:
-          search-locations: file:///C:/Users/Durgasi Mahesh kumar/Documents/config-info/{application}
+          search-locations: file:///C:/config-info/{application}
           order: 1
