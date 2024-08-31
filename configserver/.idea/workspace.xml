@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f34f7f6-1342-41db-895d-6baf05bd7508" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../book-service-master/.idea/workspace.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order-management/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order-management/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order-management/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-management/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-management/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-management/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-in.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-in.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-us.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-us.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application-in.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application-in.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application-us.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application-us.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-management/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../order-management/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-management/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../user-management/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,22 +38,28 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2lO6kRxd5V01vJxhQ4LQv6ezGf7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.ConfigserverApplication.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/DevOps/book-service-mahesh_exceptionHandling",
+    "last_opened_file_path": "C:/DevOps/discoveryserver",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -91,10 +109,14 @@
       <updated>1725038919298</updated>
       <workItem from="1725038920551" duration="1382000" />
       <workItem from="1725093917281" duration="402000" />
+      <workItem from="1725094969291" duration="3119000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

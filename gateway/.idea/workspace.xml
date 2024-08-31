@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="196d525f-928e-433f-9a27-59b29440f69c" name="Changes" comment="" />
+    <list default="true" id="196d525f-928e-433f-9a27-59b29440f69c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../order-management/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order-management/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order-management/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-management/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-management/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-management/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../configserver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../configserver/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../configserver/src/main/resources/application-in.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../configserver/src/main/resources/application-in.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../configserver/src/main/resources/application-us.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../configserver/src/main/resources/application-us.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../configserver/target/classes/application-in.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../configserver/target/classes/application-in.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../configserver/target/classes/application-us.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../configserver/target/classes/application-us.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../discoveryserver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../discoveryserver/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-management/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../order-management/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-management/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../user-management/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725095039886</updated>
-      <workItem from="1725095040243" duration="486000" />
+      <workItem from="1725095040243" duration="1947000" />
     </task>
     <servers />
   </component>
